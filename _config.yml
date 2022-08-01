@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/julianeugarten/"
- - name: "Publications"
-   link: "/publications/"
+ #- name: "About"
+#   link: "/julianeugarten/"
+ #- name: "Publications"
+#   link: "/publications/"
  - name: "Contact"
    link: "contact"
