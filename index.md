@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profielfoto.jpg">
+<img class="profile-picture" src="profielfoto.jpg" alt="profile-picture" width="200"/>
 
 Hi! I am a junior researcher at the [Huygens Institute](https://www.huygens.knaw.nl/en/) department of [Computational Literary Studies](https://www.huygens.knaw.nl/en/projecten/?thema=computationele-literatuurwetenschap) working on [CLARIAH](https://www.clariah.nl/) and [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
