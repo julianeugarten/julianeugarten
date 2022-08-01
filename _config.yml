@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/julianeugarten/"
+ - name: "Publications"
+   link: "/publications/"
  - name: "Contact"
    link: "contact"
