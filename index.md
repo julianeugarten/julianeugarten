@@ -33,5 +33,5 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 - I also currently manage [the blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/)
 
-For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/publications/)
+For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/publications/).
 ---
