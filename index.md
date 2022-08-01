@@ -22,7 +22,7 @@ Koolen, M., Fialho, O., Neugarten, J., van Zundert, J., van Hage, W., Mussmann, 
 Marijn Koolen, Julia Neugarten, Peter Boot
 Presentation at the 1st Annual [Conference of Computational Literary Studies](https://jcls.io/site/conference/).
 
-- 2022. *Defying Expectations: Stylistically Unconventional Anger in a Contemporary Dutch Novel*
+- *Defying Expectations: Stylistically Unconventional Anger in a Contemporary Dutch Novel* (2022)
 Julia Neugarten, Lisanne M. van Rossum, Joris J. van Zundert
 Long paper at the conference [Digital Humanities Benelux 2022](https://zenodo.org/record/6594637#.Yqr1kKJBxPY).
 
