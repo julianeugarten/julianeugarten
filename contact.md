@@ -6,7 +6,6 @@ is_contact: true
 Email: [j.neugarten@gmail.com](mailto:j.neugarten@gmail.com)
 ---
 
-
 ## Social
 
 - [Twitter](https://twitter.com/julia_neugarten)
