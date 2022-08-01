@@ -46,7 +46,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)
 Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81)
 
-##Valorization
+## Valorization
 - I currently manage [the blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/)
 
 - In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)
@@ -56,4 +56,4 @@ with Karina van Dalen-Oskam, Marijn Koolen, Joris J. van Zundert
 
 ## References
 
-* This is a jekyll based website template, created by Ankit Sultana. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+This is a jekyll based website template, created by Ankit Sultana. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
