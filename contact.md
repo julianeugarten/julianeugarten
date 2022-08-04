@@ -2,6 +2,7 @@
 layout: default
 is_contact: true
 ---
+Please reach out to me if you have any questions about my work, if you want to work together, or if you just want to share a cute picture of your dog!
 
 Email: [j.neugarten@gmail.com](mailto:j.neugarten@gmail.com)
 ---
