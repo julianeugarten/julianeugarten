@@ -15,7 +15,7 @@ My research centers around the way methods from the digital humanities, particul
 
 ## Recent Research Output
 
-- *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)
+- *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot.  
 Presentation at the 1st Annual [Conference of Computational Literary Studies](https://jcls.io/site/conference/).
 
