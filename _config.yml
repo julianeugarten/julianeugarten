@@ -18,5 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/julianeugarten/"
+ - name: "Publications"
+   link: "/publications/"
  - name: "Contact"
    link: "contact"

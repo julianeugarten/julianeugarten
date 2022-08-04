@@ -33,6 +33,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81).
 
 ## Valorization
+
 - I currently manage [the blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
 - In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)
