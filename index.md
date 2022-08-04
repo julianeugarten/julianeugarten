@@ -31,7 +31,7 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf).
 
-- I also currently manage the blog for [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/)
+- I also currently manage the blog for [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/publications/).
 ---
