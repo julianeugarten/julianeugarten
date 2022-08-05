@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/julianeugarten/"
  - name: "Publications"
-   link: "publications"
+   link: "/julianeugarten/publications/"
  - name: "Contact"
-   link: "contact"
+   link: "/julianeugarten/contact/"
