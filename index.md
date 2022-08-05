@@ -1,7 +1,7 @@
 
 ## About Me
 
-<img class="profile-picture" src="profielfoto.jpg">
+<img class="profile-picture" src="profielfoto1.jpg">
 
 Hi! I am a junior researcher at the [Huygens Institute](https://www.huygens.knaw.nl/en/) in the department of [Computational Literary Studies](https://www.huygens.knaw.nl/en/projecten/?thema=computationele-literatuurwetenschap). I primarily work on two projects: [CLARIAH](https://www.clariah.nl/) and [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
