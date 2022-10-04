@@ -11,7 +11,7 @@ In my free time, I enjoy creative writing, cooking and baking, boardgames and sp
 
 ## Research Interest
 
-My research centers around the analysis of fanfiction and a variety of other fan practices. I am also interests in the ways that methods from the digital humanities, particularly computational literary studies, can be applied to the study of fanfiction, fandom, and fan communities.
+My research centers around the analysis of fanfiction and a variety of other fan practices. I am also interested in the ways that methods from the digital humanities, particularly computational literary studies, can be applied to the study of fanfiction, fandom, and fan communities.
 
 ---
 
