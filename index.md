@@ -3,13 +3,15 @@
 
 <img class="profile-picture" src="profielfoto1.jpg">
 
-Hi! I am a junior researcher at the [Huygens Institute](https://www.huygens.knaw.nl/en/) in the department of [Computational Literary Studies](https://www.huygens.knaw.nl/en/projecten/?thema=computationele-literatuurwetenschap). I primarily work on two projects: [CLARIAH](https://www.clariah.nl/) and [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
+Hi!
+
+My name is Julia Neugarten. I am currently completing my PhD at the [Radboud University, Nijmegen](https://www.ru.nl/) in the project [Anchoring Innovation](https://anchoringinnovation.nl/).  The project has the preliminary title _Gods, Heroes, Myths: Anchoring and Innovating Classical Motifs in Fanfiction._
 
 In my free time, I enjoy creative writing, cooking and baking, boardgames and spinning.
 
 ## Research Interest
 
-My research centers around the way methods from the digital humanities, particularly computational literary studies, can be applied to the study of fanfiction, fandom, and fan communities.
+My research centers around the analysis of fanfiction and a variety of other fan practices. I am also interests in the ways that methods from the digital humanities, particularly computational literary studies, can be applied to the study of fanfiction, fandom, and fan communities.
 
 ---
 
@@ -30,8 +32,6 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 - *Reading Impact in Online Book Reviews: Challenges and Prospects* (2022)
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf).
-
-- I also currently manage the blog for [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/julianeugarten/publications/).
 ---

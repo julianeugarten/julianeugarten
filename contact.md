@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 Please reach out to me if you have any questions about my work or ideas to collaborate on. I look forward to exchanging ideas!
 
-Email: [j.neugarten@gmail.com](mailto:j.neugarten@gmail.com)
+Email: [julia.neugarten@ru.nl](mailto:julia.neugarten@ru.nl)
 ---
 
 ## Social

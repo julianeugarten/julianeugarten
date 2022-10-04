@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Julia Neugarten. I am a junior researcher at the [Huygens Institute](https://www.huygens.knaw.nl/en/) in the department of [Computational Literary Studies](https://www.huygens.knaw.nl/en/projecten/?thema=computationele-literatuurwetenschap). I primarily work on two projects: [CLARIAH](https://www.clariah.nl/), and [Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
+My name is Julia Neugarten. I am currently completing my PhD at the [Radboud University, Nijmegen](https://www.ru.nl/) in the project [Anchoring Innovation](https://anchoringinnovation.nl/).  The project has the preliminary title _Gods, Heroes, Myths: Anchoring and Innovating Classical Motifs in Fanfiction._
 
 In my free time, I enjoy creative writing, cooking and baking, boardgames and spinning.
 
