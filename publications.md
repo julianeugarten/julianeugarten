@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications
 
-###Peer-reviewed conference presentations
+### Peer-reviewed conference presentations
 
 - *What can Online Book Reviews Reveal about Readers and Platforms?* (2022)  
 Koolen, M., Fialho, O., Neugarten, J., van Zundert, J., van Hage, W., Mussmann, O., Boot, P.   Presentation at the conference [Computational Linguistics in the Netherlands](https://clin2022.uvt.nl/clin32/)
@@ -27,7 +27,7 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf).
 
-##Other presentations
+### Other presentations
 
 - *Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities* (2022)
 Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.it/pag/39287) at Ca'Foscari University. Available to view [here](https://www.clariah.nl/news/online-fanfiction-communities).
@@ -35,7 +35,7 @@ Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam.
 
-###Articles in student journals
+### Articles in student journals
 
 - *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
 Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/).
