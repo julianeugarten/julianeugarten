@@ -6,10 +6,20 @@ permalink: /publications/
 
 ## Publications
 
+### Peer-reviewed journal articles
+- *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
+Marijn Koolen, Julia Neugarten, Peter Boot  
+Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
+
 ### Peer-reviewed conference presentations
 
+- forthcoming: *What Do We Talk About When We Talk About Topic?* (2022)
+Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann
+Presentation at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/).
+
 - *What can Online Book Reviews Reveal about Readers and Platforms?* (2022)  
-Koolen, M., Fialho, O., Neugarten, J., van Zundert, J., van Hage, W., Mussmann, O., Boot, P.   Presentation at the conference [Computational Linguistics in the Netherlands](https://clin2022.uvt.nl/clin32/)
+Koolen, M., Fialho, O., Neugarten, J., van Zundert, J., van Hage, W., Mussmann, O., Boot, P.   
+Presentation at the conference [Computational Linguistics in the Netherlands](https://clin2022.uvt.nl/clin32/)
 
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
