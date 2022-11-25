@@ -22,7 +22,7 @@ Marijn Koolen, Julia Neugarten, Peter Boot
 Peer-reviewed article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
 
 - forthcoming: *What Do We Talk About When We Talk About Topic?* (2022)
-Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann
+Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann.
 Presentation at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/).
 
 - *Defying Expectations: Stylistically Unconventional Anger in a Contemporary Dutch Novel* (2022)
