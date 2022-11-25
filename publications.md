@@ -7,6 +7,7 @@ permalink: /publications/
 ## Publications
 
 ### Peer-reviewed journal articles
+
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
