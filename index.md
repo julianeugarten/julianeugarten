@@ -17,8 +17,8 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 ## Recent Research Output
 
-- *What Do We Talk About When We Talk About Topic?* (2022)
-Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann
+- *What Do We Talk About When We Talk About Topic?* (2022)  
+Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  
 [Short paper](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/), published in the [Proceedings of the Computational Humanities Research Conference 2022](https://ceur-ws.org/Vol-3290/).
 
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
