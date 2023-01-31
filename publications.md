@@ -57,7 +57,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ### Reviews
 
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
-[Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/Volume%2018/Issue%201/29.pdf).
+[Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).
 
 ## Valorization
 
