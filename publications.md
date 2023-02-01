@@ -61,6 +61,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ## Valorization
 
+- In November 2022, [my project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
+
 - From the start of the project until the autumn of 2022, I managed the social media presence and [blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
 - In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
