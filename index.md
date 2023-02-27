@@ -9,6 +9,8 @@ My name is Julia Neugarten. I am currently conducting my PhD research at the [Ra
 
 I am a member of the [Netherlands Research School for Literary Studies](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/) and an associated member of [OIKOS](https://www.rug.nl/research/research-let/oikos/about/), the Dutch National Research School in Classical Studies.
 
+I am also a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+
 In my free time, I enjoy creative writing, cooking and baking, boardgames and spinning.
 
 ## Research Interest

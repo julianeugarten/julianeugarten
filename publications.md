@@ -59,6 +59,10 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).
 
+## Academic Service
+- Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+
+
 ## Valorization
 
 - In November 2022, [my project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
