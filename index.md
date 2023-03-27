@@ -23,7 +23,7 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 - *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (forthcoming)
 Julia Neugarten & Roel Smeets
-Short paper at the conference DH Benelux 2023  
+Short paper at the conference [Digital Humanities Benelux 2023](https://2023.dhbenelux.org/).  
 
 - *What Do We Talk About When We Talk About Topic?* (2022)  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  

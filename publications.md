@@ -69,7 +69,9 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ## Valorization
 
-- In November 2022, [my project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
+- In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/#/Blog). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
+
+- In November 2022, [my PhD-project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
 
 - From the start of the project until the autumn of 2022, I managed the social media presence and [blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
