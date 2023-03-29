@@ -14,8 +14,8 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
-- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (forthcoming)
-Julia Neugarten & Roel Smeets
+- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (forthcoming)  
+Julia Neugarten & Roel Smeets  
 Short paper at the conference DH Benelux 2023  
 
 - *What Do We Talk About When We Talk About Topic?* (2022)  
@@ -50,7 +50,7 @@ Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam.
 
-### Articles in student journals
+### Articles in graduate journals
 
 - *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
 Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/).

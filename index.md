@@ -7,9 +7,7 @@ Hi!
 
 My name is Julia Neugarten. I am currently conducting my PhD research at the [Radboud University, Nijmegen](https://www.ru.nl/) in the project [Anchoring Innovation](https://anchoringinnovation.nl/).  My dissertation has the preliminary title _Gods, Heroes, Myths: Anchoring and Innovating Classical Motifs in Fanfiction._
 
-I am a member of the [Netherlands Research School for Literary Studies](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/) and an associated member of [OIKOS](https://www.rug.nl/research/research-let/oikos/about/), the Dutch National Research School in Classical Studies.
-
-I am also a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+I am a member of the [Netherlands Research School for Literary Studies](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/) and an associated member of [OIKOS](https://www.rug.nl/research/research-let/oikos/about/), the Dutch National Research School in Classical Studies. I am also a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
 In my free time, I enjoy creative writing, cooking and baking, boardgames and spinning.
 
@@ -21,8 +19,8 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 ## Recent Research Output
 
-- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (forthcoming)
-Julia Neugarten & Roel Smeets
+- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (forthcoming)  
+Julia Neugarten & Roel Smeets  
 Short paper at the conference [Digital Humanities Benelux 2023](https://2023.dhbenelux.org/).  
 
 - *What Do We Talk About When We Talk About Topic?* (2022)  
