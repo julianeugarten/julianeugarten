@@ -14,9 +14,9 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
-- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (forthcoming)  
+- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology*  
 Julia Neugarten & Roel Smeets  
-Short paper at the conference DH Benelux 2023  
+[Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repostiory](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0).
 
 - *What Do We Talk About When We Talk About Topic?* (2022)  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  
