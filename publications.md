@@ -8,19 +8,16 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
-- *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (forthcoming) 
-Julia Neugarten 
-Article in the Journal fo Fandom Studies 
+- *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments*  
+(forthcoming)  
+Julia Neugarten  
+Article in the Journal of Fandom Studies   
  
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
 
 ### Peer-reviewed conference presentations
-
-- *Topic Modeling for Fanfiction Analysis* (forthcoming) 
-Julia Neugarten
-[Workshop at the 2023 conference of the Fan Studies Network of North America](https://fsn-northamerica.org/fsnna-23/). 
 
 - *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)    
 Julia Neugarten & Roel Smeets  
@@ -51,6 +48,10 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 ### Other presentations
 
+- *Topic Modeling for Fanfiction Analysis* (forthcoming)   
+Julia Neugarten  
+[Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/). 
+
 - *Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities* (2022)
 Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.it/pag/39287) at Ca'Foscari University. Available to view [here](https://www.clariah.nl/news/online-fanfiction-communities).
 
@@ -72,11 +73,11 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 
 ### Teaching 
-- In the fall semester of 2023, I am teaching two seminar groups in *Data Culture* in the BA Arts and Culture Studies at Radboud University. 
+- In the fall semester of 2023, I am teaching two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) in the BA Arts and Culture Studies at Radboud University. 
 
 ### Awards and Fellowships
-- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). 
-I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024. 
+- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/).  
+ I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024. 
 
 - Royal Dutch Academy of Sciences Eductation Award (2014) for the project *The Jane Austen Novel*. 
 
