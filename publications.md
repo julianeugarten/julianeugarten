@@ -8,16 +8,23 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
+- *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (forthcoming) 
+Julia Neugarten 
+Article in the Journal fo Fandom Studies 
+ 
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
 
 ### Peer-reviewed conference presentations
 
+- *Topic Modeling for Fanfiction Analysis* (forthcoming) 
+Julia Neugarten
+[Workshop at the 2023 conference of the Fan Studies Network of North America](https://fsn-northamerica.org/fsnna-23/). 
+
 - *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)    
 Julia Neugarten & Roel Smeets  
-[Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repository](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0).
-
+[Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repository](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0). The paper is also available on [Zenodo](https://zenodo.org/record/7941533).
 - *What Do We Talk About When We Talk About Topic?* (2022)  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  
 [Short paper](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/), published in the [Proceedings of the Computational Humanities Research Conference 2022](https://ceur-ws.org/Vol-3290/).
@@ -62,6 +69,16 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).
+
+
+### Teaching 
+- In the fall semester of 2023, I am teaching two seminar groups in *Data Culture* in the BA Arts and Culture Studies at Radboud University. 
+
+### Awards and Fellowships
+- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). 
+I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024. 
+
+- Royal Dutch Academy of Sciences Eductation Award (2014) for the project *The Jane Austen Novel*. 
 
 ## Academic Service
 - Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
