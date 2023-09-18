@@ -77,6 +77,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 - In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the [University of Antwerp](https://www.uantwerpen.be/en/).
 
+- During my time at the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis at the institute.
+
 ### Awards and Fellowships
 - Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/).  
  I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024. 
