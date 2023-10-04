@@ -68,7 +68,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Reviews
 
-- Review of *Classical Controversies. Reception of Graeco-Roman Antiquity in the Twenty-First Century* (2022) Edited by Kim Beerden and Timo Epping
+- Review of *Classical Controversies. Reception of Graeco-Roman Antiquity in the Twenty-First Century* (2022) Edited by Kim Beerden and Timo Epping  
 [Tijdschrift voor Geschiedenis 136.2](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG).
 
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
