@@ -19,9 +19,14 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- *How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?* (2023)  
+Marijn Koolen, Olivia da Costa Fialho;, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot  
+Presentation at IGEL 2023, Monopoly, Italy. [Book of abstracts available](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view).  
+
 - *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)    
 Julia Neugarten & Roel Smeets  
-[Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repository](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0). The paper is also available on [Zenodo](https://zenodo.org/record/7941533).
+[Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repository](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0). The paper is also available on [Zenodo](https://zenodo.org/record/7941533).  
+  
 - *What Do We Talk About When We Talk About Topic?* (2022)  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  
 [Short paper](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/), published in the [Proceedings of the Computational Humanities Research Conference 2022](https://ceur-ws.org/Vol-3290/).
