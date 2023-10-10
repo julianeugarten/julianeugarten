@@ -96,6 +96,12 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ## Academic Service
 - Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
+<details>
+<summary>Academic Service</summary>
+<br>
+- Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+</details>
+
 
 ## Valorization
 - In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw).
