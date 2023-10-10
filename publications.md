@@ -93,11 +93,19 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 - Royal Dutch Academy of Sciences Eductation Award (2014) for the project *The Jane Austen Novel*. 
 
-## Academic Service
-- Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+<details>
+<summary><b>Awards and Fellowships</b></summary>
+<br>
+<li> Transnational Access Fellowship (2023) in the project  
+<a href="https://clsinfra.io/opportunities/tnafellowships/">CLS Infra: Computational Literary Studies Infrastructure</a>.
+I will conduct my one-month fellowship project, <i>Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth</i>, at the
+<a href="https://www.ghentcdh.ugent.be/">Ghent Center for Digital Humanities</a> in the spring of 2024. </li>
+<li> Royal Dutch Academy of Sciences Eductation Award (2014) for the project <i>The Jane Austen Novel</i>.</li> 
+</details>
+
 
 <details>
-<summary>Academic Service</summary>
+<summary><b>Academic Service</b></summary>
 <br>
 <li> Since February 2023, I am a member of the editorial board of the 
 <a href="https://journal.dhbenelux.org/">Digital Humanities Benelux Journal</a>.</li>
