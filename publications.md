@@ -99,8 +99,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 <details>
 <summary>Academic Service</summary>
 <br>
-+ Since February 2023, I am a member of the editorial board of the 
-<a href="https://journal.dhbenelux.org/">Digital Humanities Benelux Journal</a>.
+<li> Since February 2023, I am a member of the editorial board of the 
+<a href="https://journal.dhbenelux.org/">Digital Humanities Benelux Journal</a>.</li>
 </details>
 
 
