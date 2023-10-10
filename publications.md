@@ -77,7 +77,21 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 [Tijdschrift voor Geschiedenis 136.2](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG).
 
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
-[Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).
+[Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).  
+
+## Valorization
+- In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw).
+
+- In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/#/Blog). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
+
+- In November 2022, [my PhD-project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
+
+- From the start of the project until the autumn of 2022, I managed the social media presence and [blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
+
+- In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
+with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
+
+
 <br>
 <details>
 <summary><b>Teaching</b></summary>
@@ -94,6 +108,7 @@ in the BA Arts and Culture Studies at Radboud University. </li>
 I co-supervised several students who were conducting internships or writing their thesis.
 </details>
 <br>
+
 <details>
 <summary><b>Awards and Fellowships</b></summary>
 <br>
@@ -112,16 +127,6 @@ I will conduct my one-month fellowship project, <i>Catching Feelings: Aspect-Bas
 <a href="https://journal.dhbenelux.org/">Digital Humanities Benelux Journal</a>.</li>
 </details>
 <br>
-## Valorization
-- In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw).
 
-- In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/#/Blog). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
-
-- In November 2022, [my PhD-project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
-
-- From the start of the project until the autumn of 2022, I managed the social media presence and [blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
-
-- In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
-with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ---
