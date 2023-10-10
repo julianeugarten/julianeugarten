@@ -20,7 +20,7 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 ### Peer-reviewed conference presentations
 
 - *How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?* (2023)  
-Marijn Koolen, Olivia da Costa Fialho;, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot  
+Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot  
 Presentation at IGEL 2023, Monopoly, Italy. [Book of abstracts available](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view).  
 
 - *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)    
