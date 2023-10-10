@@ -78,21 +78,22 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).
-
-
-### Teaching 
-- In the fall semester of 2023, I am teaching two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) in the BA Arts and Culture Studies at Radboud University. 
-
-- In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the [University of Antwerp](https://www.uantwerpen.be/en/).
-
-- During my time at the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis at the institute.
-
-### Awards and Fellowships
-- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/).  
- I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024. 
-
-- Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*. 
-
+<br>
+<details>
+<summary><b>Teaching</b></summary>
+<br>
+<li> In the fall semester of 2023, I am teaching two seminar groups in
+<a href="https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/">Data Culture</a>.
+in the BA Arts and Culture Studies at Radboud University. </li>
+<br>
+<li> In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the 
+<a href="https://www.uantwerpen.be/en/">University of Antwerp</a>.</li>
+<br>
+<li> During my time at the
+<a href="https://www.huygens.knaw.nl/en/">Huygens Institute</a>
+I co-supervised several students who were conducting internships or writing their thesis.
+</details>
+<br>
 <details>
 <summary><b>Awards and Fellowships</b></summary>
 <br>
@@ -100,18 +101,17 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 <a href="https://clsinfra.io/opportunities/tnafellowships/">CLS Infra: Computational Literary Studies Infrastructure</a>.
 I will conduct my one-month fellowship project, <i>Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth</i>, at the
 <a href="https://www.ghentcdh.ugent.be/">Ghent Center for Digital Humanities</a> in the spring of 2024. </li>
+<br>
 <li> Royal Dutch Academy of Sciences Education Award (2014) for the project <i>The Jane Austen Novel</i>.</li> 
 </details>
-
-
+<br>
 <details>
 <summary><b>Academic Service</b></summary>
 <br>
 <li> Since February 2023, I am a member of the editorial board of the 
 <a href="https://journal.dhbenelux.org/">Digital Humanities Benelux Journal</a>.</li>
 </details>
-
-
+<br>
 ## Valorization
 - In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw).
 
