@@ -54,9 +54,9 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 ### Other presentations
 
 - *Topic Modeling for Exploratory Fanfiction Analysis*  
-[Powerpoint available on Zenodo](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA)   
 Julia Neugarten  
 [Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/). 
+[Powerpoint available on Zenodo](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA)   
 
 - *Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities* (2022)
 Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.it/pag/39287) at Ca'Foscari University. Available to view [here](https://www.clariah.nl/news/online-fanfiction-communities).
