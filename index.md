@@ -19,6 +19,11 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 ## Recent Research Output
 
+- *Topic Modeling for Exploratory Fanfiction Analysis*  
+Julia Neugarten  
+[Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/). 
+[Powerpoint available on Zenodo](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA)   
+
 - *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)  
 Julia Neugarten & Roel Smeets  
 [Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repository](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0). The paper is also available on [Zenodo](https://zenodo.org/record/7941533).
@@ -30,14 +35,6 @@ Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hag
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Peer-reviewed article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
-
-- *Defying Expectations: Stylistically Unconventional Anger in a Contemporary Dutch Novel* (2022)
-Julia Neugarten, Lisanne M. van Rossum, Joris J. van Zundert.  
-Long paper at the conference [Digital Humanities Benelux 2022](https://zenodo.org/record/6594637#.Yqr1kKJBxPY).
-
-- *Fifty Shades of Twilight: Computationally Comparing Collocations in Twilight and 50 Shades of Grey* (2022)
-Barbara Bordalejo, Julia Neugarten, Joris J. van Zundert.  
-Short presentation at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf).
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/julianeugarten/publications/).
 ---
