@@ -53,7 +53,8 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 ### Other presentations
 
-- *Topic Modeling for Fanfiction Analysis* (forthcoming)   
+- *Topic Modeling for Fanfiction Analysis*  
+[Powerpoint available on Zenodo](https://zenodo.org/records/10000603)   
 Julia Neugarten  
 [Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/). 
 
@@ -91,42 +92,26 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
 with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
 
+## Teaching  
 
-<br>
-<details>
-<summary><b>Teaching</b></summary>
-<br>
-<li> In the fall semester of 2023, I am teaching two seminar groups in
-<a href="https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/">Data Culture</a>.
-in the BA Arts and Culture Studies at Radboud University. </li>
-<br>
-<li> In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the 
-<a href="https://www.uantwerpen.be/en/">University of Antwerp</a>.</li>
-<br>
-<li> During my time at the
-<a href="https://www.huygens.knaw.nl/en/">Huygens Institute</a>
-I co-supervised several students who were conducting internships or writing their thesis.
-</details>
-<br>
+- In the fall semester of 2023, I taught two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) in the BA Arts and Culture Studies at Radboud University.  
 
-<details>
-<summary><b>Awards and Fellowships</b></summary>
-<br>
-<li> Transnational Access Fellowship (2023) in the project  
-<a href="https://clsinfra.io/opportunities/tnafellowships/">CLS Infra: Computational Literary Studies Infrastructure</a>.
-I will conduct my one-month fellowship project, <i>Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth</i>, at the
-<a href="https://www.ghentcdh.ugent.be/">Ghent Center for Digital Humanities</a> in the spring of 2024. </li>
-<br>
-<li> Royal Dutch Academy of Sciences Education Award (2014) for the project <i>The Jane Austen Novel</i>.</li> 
-</details>
-<br>
-<details>
-<summary><b>Academic Service</b></summary>
-<br>
-<li> Since February 2023, I am a member of the editorial board of the 
-<a href="https://journal.dhbenelux.org/">Digital Humanities Benelux Journal</a>.</li>
-</details>
-<br>
+- In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the 
+[University of Antwerp](https://www.uantwerpen.be/en/) together with my former colleague Marijn Koolen.  
+
+- During my time at the [Huygens Institute]("https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
+
+## Awards and Fellowships  
+
+- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
+
+- Royal Dutch Academy of Sciences Education Award (2014) for the project <i>The Jane Austen Novel  
+
+## Academic Service  
+
+- Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+
+- I have conducted peer review for the *Journal of Fandom Studies*.
 
 
 ---
