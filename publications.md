@@ -109,9 +109,11 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ## Academic Service  
 
-- Since February 2023, I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+- I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
-- I have conducted peer review for the *Journal of Fandom Studies*.
+- I am a part of the management team for research group [SCARAB: Studying Cultural infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
+
+- I have conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal.
 
 
 ---
