@@ -19,6 +19,11 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+-*FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
+Julia Neugarten, Christoph Minixhofer, David Slot  
+Poster at [Computational Humanities Research (CHR2023)](https://2023.computational-humanities-research.org/)  
+Abstract available [on Zenodo](https://zenodo.org/records/10221013) and poster coming soon.
+
 - *How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?* (2023)  
 Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot  
 Presentation at IGEL 2023, Monopoly, Italy. [Book of abstracts available](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view).  
