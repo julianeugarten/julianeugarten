@@ -19,7 +19,7 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
--*FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
+- *FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
 Julia Neugarten, Christoph Minixhofer, David Slot  
 Poster at [Computational Humanities Research (CHR2023)](https://2023.computational-humanities-research.org/)  
 Abstract available [on Zenodo](https://zenodo.org/records/10221013) and poster coming soon.
