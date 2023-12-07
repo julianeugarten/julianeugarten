@@ -104,7 +104,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the 
 [University of Antwerp](https://www.uantwerpen.be/en/) together with my former colleague Marijn Koolen.  
 
-- During my time at the [Huygens Institute]("https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
+- During my time at the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
 
 ## Awards and Fellowships  
 
