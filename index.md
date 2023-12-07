@@ -22,7 +22,7 @@ My research centers around the analysis of fanfiction and a variety of other fan
 - *FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
 Julia Neugarten, Christoph Minixhofer, David Slot  
 Poster at [Computational Humanities Research (CHR2023)](https://2023.computational-humanities-research.org/)  
-Abstract available [on Zenodo](https://zenodo.org/records/10221013) and poster coming soon.
+Abstract and poster available [on Zenodo](https://zenodo.org/records/10279754).
 
 - *Topic Modeling for Exploratory Fanfiction Analysis*  
 Julia Neugarten  

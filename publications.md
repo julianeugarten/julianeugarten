@@ -22,7 +22,7 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 - *FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
 Julia Neugarten, Christoph Minixhofer, David Slot  
 Poster at [Computational Humanities Research (CHR2023)](https://2023.computational-humanities-research.org/)  
-Abstract available [on Zenodo](https://zenodo.org/records/10221013) and poster coming soon.
+Abstract and poster available [on Zenodo](https://zenodo.org/records/10279754).
 
 - *How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?* (2023)  
 Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot  
@@ -110,7 +110,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 - Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
 
-- Royal Dutch Academy of Sciences Education Award (2014) for the project <i>The Jane Austen Novel  
+- Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*.  
 
 ## Academic Service  
 
