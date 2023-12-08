@@ -38,4 +38,5 @@ Marijn Koolen, Julia Neugarten, Peter Boot
 Peer-reviewed article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/julianeugarten/publications/).
+
 ---
