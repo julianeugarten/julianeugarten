@@ -86,7 +86,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).  
 
 ## Valorization
-- In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw).
+- In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw), or [listen to it via Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905).
 
 - In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/#/Blog). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
 
@@ -118,7 +118,9 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 - I am a part of the management team for research group [SCARAB: Studying Cultural infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
 
-- I have conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal.
+- I have conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal. 
+
+- In 2022, I was a student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf).
 
 
 ---
