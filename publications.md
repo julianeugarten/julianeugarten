@@ -85,7 +85,9 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).  
 
-## Valorization
+## Other Academic Output
+
+### Valorization
 - In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw), or [listen to it via Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905).
 
 - In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/#/Blog). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
@@ -97,7 +99,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
 with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
 
-## Teaching  
+### Teaching  
 
 - In the fall semester of 2023, I taught two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) in the BA Arts and Culture Studies at Radboud University.  
 
@@ -106,15 +108,17 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 - During my time at the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
 
-## Awards and Fellowships  
+### Awards and Fellowships  
 
 - Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
 
 - Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*.  
 
-## Academic Service  
+### Academic Service and Professional Memberships  
 
 - I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+
+- I am a member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics
 
 - I am a part of the management team for research group [SCARAB: Studying Cultural infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
 
