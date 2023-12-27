@@ -8,11 +8,10 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
-- *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments*  
-(forthcoming)  
+- *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (2023) 
 Julia Neugarten  
-Article in the Journal of Fandom Studies   
- 
+Article in the [Journal of Fandom Studies, 11.2-3](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1). 
+    
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/).
