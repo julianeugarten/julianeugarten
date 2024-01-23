@@ -86,7 +86,9 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ## Other Academic Output
 
-### Valorization
+### Valorization 
+- In January 2024, I was a guest on *In a Nutshell*,  a podcast by Vox where researcher from Radboud University get to introduce their research. You can listen to the episode, [Fantastic Fanfictions and How to Study Them](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them) on their website or on [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ). 
+
 - In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw), or [listen to it via Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905).
 
 - In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/#/Blog). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
