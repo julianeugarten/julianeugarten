@@ -87,7 +87,10 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ## Other Academic Output
 
 ### Valorization 
-- In January 2024, I was a guest on *In a Nutshell*,  a podcast by Vox where researcher from Radboud University get to introduce their research. You can listen to the episode, [Fantastic Fanfictions and How to Study Them](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them) on their website or on [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ). 
+
+- In February 2024 I organized a Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* Program offered by VO-Achterhoek.
+
+- In January 2024, I was a guest on *In a Nutshell*,  a podcast by Vox where researcher from Radboud University get to introduce their research. You can listen to the episode here: [Fantastic Fanfictions and How to Study Them](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them), or on [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ). 
 
 - In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw), or [listen to it via Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905).
 
@@ -119,13 +122,13 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 - I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
-- I am a member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics
+- I am a member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics.
 
-- I am a part of the management team for research group [SCARAB: Studying Cultural infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
+- I am a part of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
 
 - I have conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal. 
 
-- In 2022, I was a student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf).
+- In 2022, I was a student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
 
 ---
