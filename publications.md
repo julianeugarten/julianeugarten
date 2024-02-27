@@ -105,7 +105,11 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Teaching  
 
-- In the fall semester of 2023, I taught two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) in the BA Arts and Culture Studies at Radboud University.  
+- In the spring semester of 2024, I will be teaching in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) in the first year of the BA Arts and Culture Studies at Radboud University. 
+
+- In February 2024, I was invited to give a mini guest lecture on the topic of *Fanfiction, Health & Illness* in the MA course *Health and Illness* at Radboud University. 
+
+- In the fall semester of 2023, I taught two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) in the second year of the BA Arts and Culture Studies at Radboud University.  
 
 - In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the 
 [University of Antwerp](https://www.uantwerpen.be/en/) together with my former colleague Marijn Koolen.  
