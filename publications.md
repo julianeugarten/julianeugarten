@@ -57,9 +57,9 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 ### Other presentations
 
-- *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives* 
-Julia Neugarten 
-[Presentation at the 2023 OSL Day Health Humanities in Practice](https://www.oslit.nl/osl-day-health-humanities-in-practice/). 
+- *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
+ Julia Neugarten   
+[Presentation at the 2023 OSL Day Health Humanities in Practice](https://www.oslit.nl/osl-day-health-humanities-in-practice/).  
  
 - *Topic Modeling for Exploratory Fanfiction Analysis*  
 Julia Neugarten  
@@ -111,7 +111,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ##### Spring 2024 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1). 
-- One lecture on Distant Reading in the course [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2).
+- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2).
 
 ##### Fall 2023 
 - Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2). 
