@@ -9,8 +9,7 @@ permalink: /publications/
 ### Peer-reviewed journal articles
 
 - *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (2023) 
-Julia Neugarten  
-Article in the [Journal of Fandom Studies, 11.2-3](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1). 
+Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1). 
     
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
@@ -55,14 +54,12 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf).
 
-### Other presentations
+### Other solo presentations
 
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
- Julia Neugarten   
 [Presentation at the 2023 OSL Day Health Humanities in Practice](https://www.oslit.nl/osl-day-health-humanities-in-practice/).  
  
 - *Topic Modeling for Exploratory Fanfiction Analysis*  
-Julia Neugarten  
 [Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/). 
 [Powerpoint available on Zenodo](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA)   
 
@@ -72,7 +69,7 @@ Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam.
 
-### Articles in graduate journals
+### Solo-authored articles in graduate journals
 
 - *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
 Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/).
@@ -88,23 +85,21 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf).  
 
-## Other Academic Output
-
 ### Valorization 
 
-- In February 2024 I organized a Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* Program offered by VO-Achterhoek.
+- February 2024: Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* Program offered by VO-Achterhoek.
 
-- In January 2024, I was a guest on *In a Nutshell*,  a podcast by Vox where researcher from Radboud University get to introduce their research. You can listen to the episode here: [Fantastic Fanfictions and How to Study Them](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them), or on [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ). 
+- January 2024: guest appearance on *In a Nutshell*,  a podcast by Vox where researcher from Radboud University get to introduce their research. You can listen to the episode here: [Fantastic Fanfictions and How to Study Them](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them), or on [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ). 
 
-- In September 2023, I gave a public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). You can view the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw), or [listen to it via Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905).
+- September 2023: public lecture at [Radboud Reflects](https://www.ru.nl/radboudreflects/) titled 'Fanfictie: als fans de regie nemen' (English 'Fanfiction: when fans take charge'). View the lecture and panel discussion [on Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw), or [listen to it via Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905).
 
-- In March 2023, I wrote a blogpost titled [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/blog/2023_123). This post is part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
+- March 2023: blogpost [Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/blog/2023_123) as part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*).
 
-- In November 2022, [my PhD-project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
+- November 2022: [my PhD-project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap). 
 
 - From the start of the project until the autumn of 2022, I managed the social media presence and [blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/).
 
-- In 2022, I co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
+- 2022: co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
 with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
 
 ### Teaching in the BA Arts & Culture Studies at Radboud University 
@@ -118,30 +113,30 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Teaching in Other Programs and Organizations
 
-- In February 2024, I gave an invited mini guest lecture on the topic of *Fanfiction, Health & Illness* in the MA course *Health and Illness* at Radboud University. 
+- February 2024: invited mini guest lecture on *Fanfiction, Health & Illness* in the MA course *Health and Illness* at Radboud University. 
 
-- In the spring of 2023, I taught a guest lecture in the MA course Computational Literary Studies at the 
+- Spring 2023: guest lecture in the MA course Computational Literary Studies at the 
 [University of Antwerp](https://www.uantwerpen.be/en/), together with my former colleague Marijn Koolen.  
 
-- During my time at the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
+- At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
 
 ### Awards and Fellowships  
 
-- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I will conduct my one-month fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
+- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I will conduct my fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
 
 - Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*.  
 
 ### Academic Service and Professional Memberships  
 
-- I am a member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+- member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
-- I am a member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics.
+- member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics.
 
-- I am a part of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
+- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). 
 
-- I have conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal. 
+- conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal. 
 
-- In 2022, I was a student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
+- 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
 
 ---
