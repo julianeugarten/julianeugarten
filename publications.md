@@ -102,14 +102,11 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - 2022: co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
 with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
 
-### Teaching in the BA Arts & Culture Studies at Radboud University 
+### Teaching in the BA Arts & Culture Studies at Radboud University  
 
-##### Spring 2024 
-- Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1). 
-- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2).
-
-##### Fall 2023 
-- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2). 
+- Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
+- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024).
+- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023). 
 
 ### Teaching in Other Programs and Organizations
 
