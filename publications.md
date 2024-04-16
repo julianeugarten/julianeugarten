@@ -87,6 +87,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- April 2024: Conducted a small survey among colleagues about the process of academic writing: [The 2024 Writing Questionnaire](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/), published on our department's blog, [Culture Weekly](https://culture-weekly.com/), for which I am the current editor.
+
 - February 2024: Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* Program offered by VO-Achterhoek.
 
 - January 2024: guest appearance on *In a Nutshell*,  a podcast by Vox where researcher from Radboud University get to introduce their research. You can listen to the episode here: [Fantastic Fanfictions and How to Study Them](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them), or on [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ). 
