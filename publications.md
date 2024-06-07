@@ -56,7 +56,7 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 ### Other solo presentations
 
-- *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth"
+- *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
 Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/).   
 
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
@@ -92,7 +92,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 - May 2024: Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/).  
 
-- April 2024: Conducted a small survey among colleagues about the process of academic writing: [The 2024 Writing Questionnaire](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/), published on our department's blog, [Culture Weekly](https://culture-weekly.com/), for which I am the current editor.
+- April 2024: Conducted a small survey among colleagues about the process of academic writing: [The 2024 Writing Questionnaire](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/), published on our department's blog, [Culture Weekly](https://culture-weekly.com/).  
 
 - February 2024: Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* Program offered by VO-Achterhoek.
 
@@ -131,6 +131,8 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*.  
 
 ### Academic Service and Professional Memberships  
+
+- editor of  [Culture Weekly](https://culture-weekly.com/), the blog of the department of Arts and Culture Studies at Radboud University.
 
 - member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
