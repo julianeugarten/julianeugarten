@@ -56,6 +56,9 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 ### Other solo presentations
 
+- *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth"
+Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/).   
+
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
 [Presentation at the 2023 OSL Day Health Humanities in Practice](https://www.oslit.nl/osl-day-health-humanities-in-practice/).  
  
@@ -87,6 +90,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- May 2024: Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/).  
+
 - April 2024: Conducted a small survey among colleagues about the process of academic writing: [The 2024 Writing Questionnaire](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/), published on our department's blog, [Culture Weekly](https://culture-weekly.com/), for which I am the current editor.
 
 - February 2024: Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* Program offered by VO-Achterhoek.
@@ -108,7 +113,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
 - One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024).
-- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023). 
+- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024). 
 
 ### Teaching in Other Programs and Organizations
 
@@ -121,7 +126,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
-- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I will conduct my fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
+- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I conducted my fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
 
 - Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*.  
 
