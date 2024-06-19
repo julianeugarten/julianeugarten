@@ -57,7 +57,7 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 ### Other solo presentations
 
 - *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
-Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/).   
+Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/). [Powerpoint available on Zenodo.](https://zenodo.org/records/12163945)  
 
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
 [Presentation at the 2023 OSL Day Health Humanities in Practice](https://www.oslit.nl/osl-day-health-humanities-in-practice/).  
@@ -125,6 +125,8 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
 
 ### Awards and Fellowships  
+
+- OSL Seed Money Grant (2024) to organize a conference on *Fanfiction and the Ancient World*.  
 
 - Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/). I conducted my fellowship project, *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth*, at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the spring of 2024.  
 
