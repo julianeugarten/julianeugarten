@@ -112,19 +112,19 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
-- OSL Seed Money Grant (2024) to organize a conference on *Fanfiction and the Ancient World*.  
-- Transnational Access Fellowship (2023) in the project [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/).
-- Royal Dutch Academy of Sciences Education Award (2014) for the project *The Jane Austen Novel*.  
+- OSL Seed Money Grant (2024) to organize the conference *Fanfiction and the Ancient World*.  
+- Transnational Access Fellowship (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/).
+- Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*.  
 
 ### Academic Service and Professional Memberships  
 
 - co-organizer of the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) (October 2024).    
 - editor of  [Culture Weekly](https://culture-weekly.com/), the blog of the department of Arts and Culture Studies at Radboud University. (September 2023 - present)  
-- member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/). (summer 2023-present)  
-- member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics.(November 2022-present)  
+- member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (summer 2023-present)  
+- member of OSL, the Dutch Research School for Literary Studies, and of OIKOS, the Dutch Research School for Classics (November 2022-present)  
 - associated member of OIKOS, the National Research School in Classical Studies in the Netherlands (November 2022-present)  
-- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders). (November 2022-present)  
-- conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal.   
+- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-present)  
+- conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal   
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
 
