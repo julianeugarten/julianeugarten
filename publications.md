@@ -86,6 +86,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ### Valorization 
 
 - June 2024: [Interview to promote the Transnational Access Fellowship](https://www.youtube.com/watch?v=ewWzlg61Fxw).  
+- May 2024: Article "Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm" in [De Moon: Het Tijdschrift voor Oudheidsreceptie in Nederland](http://www.de-moon.nl/), 1.1.
 - May 2024: Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/).  
 - April 2024: Conducted a small survey among colleagues about the process of academic writing: [The 2024 Writing Questionnaire](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/), published on our department's blog, [Culture Weekly](https://culture-weekly.com/).  
 - February 2024: Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* program offered by VO-Achterhoek.
