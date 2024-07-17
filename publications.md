@@ -127,6 +127,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - associated member of OIKOS, the National Research School in Classical Studies in the Netherlands (November 2022-present)  
 - member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-present)  
 - conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal   
+-  2023: Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
 
