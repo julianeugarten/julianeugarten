@@ -8,6 +8,10 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
+- *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction* (forthcoming)  
+Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc), expected publication in the autumn of 2025.  
+- *MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth* (forthcoming)  
+Solo-authored article in the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/), expected publication in the autumn of 2024.  
 - *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (2023) 
 Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1). 
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
