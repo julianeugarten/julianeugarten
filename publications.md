@@ -89,6 +89,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- July 2024: [Interview about my research with Aôthen Magazine](https://aothenmagazine.com/#neugartenmyth).  
 - June 2024: [Interview to promote the Transnational Access Fellowship](https://www.youtube.com/watch?v=ewWzlg61Fxw).  
 - May 2024: Article "Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm" in [De Moon: Het Tijdschrift voor Oudheidsreceptie in Nederland](http://www.de-moon.nl/), 1.1.
 - May 2024: Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/).  
