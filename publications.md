@@ -51,8 +51,6 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 #### Other solo presentations  
 
-- *Affect & Emotion in Fanfiction Texts and Communities – A Theoretical Framework*  
-Presentation and poster at the 2024 online conference of the Fan Studies Network North America (forthcoming)  
 - *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
 Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/). [Full presentation viewable on Youtube](https://www.youtube.com/watch?v=_jRxbVUAT_Y) and [powerpoint available on Zenodo](https://zenodo.org/records/12163945).  
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
