@@ -20,6 +20,9 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth* (2024)  
+Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz  
+Poster at [Computational Humanities Research (CHR2024)](https://2024.computational-humanities-research.org/) (forthcoming).  
 - *FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
 Julia Neugarten, Christoph Minixhofer, David Slot  
 Poster at [Computational Humanities Research (CHR2023)](https://2023.computational-humanities-research.org/)  
@@ -87,6 +90,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- August 2024: Interview about my research with Timo Epping of the Oudheid (Antiquity) Podcast, [available on Spotify](https://open.spotify.com/episode/2DfF797F8MOt7ZSpGGeDw2?si=iay1PgYNRUKoQ0GmAZS8Sw).  
 - July 2024: [Interview about my research with Aôthen Magazine](https://aothenmagazine.com/#neugartenmyth).  
 - June 2024: [Interview to promote the Transnational Access Fellowship](https://www.youtube.com/watch?v=ewWzlg61Fxw).  
 - May 2024: Article "Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm" in [De Moon: Het Tijdschrift voor Oudheidsreceptie in Nederland](http://www.de-moon.nl/), 1.1.
@@ -105,12 +109,12 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
 - One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024).
-- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024). 
+- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024, this time including two lectures). 
 
 ### Teaching in Other Programs and Organizations
 
 - February 2024: invited mini guest lecture on *Fanfiction, Health & Illness* in the MA course *Health and Illness* at Radboud University. 
-- Autumn 2024 and 2023: Guest lecturer in the career seminar for Literary Studies Lab (course in the rMA Literary Studies) at the University of Amsterdam.  
+- Autumn 2023: Guest lecturer in the career seminar for Literary Studies Lab (course in the rMA Literary Studies) at the University of Amsterdam.  
 - Spring 2023: guest lecture in the MA course Computational Literary Studies at the 
 [University of Antwerp](https://www.uantwerpen.be/en/), together with my former colleague Marijn Koolen.  
 - At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis.
