@@ -12,7 +12,7 @@ permalink: /creativewriting/
 
 - *The Multiverse of Fanfiction* in *Entering the Multiverse: Perspectives on Alternate Universes and Parallel Worlds*, edited by Paul Booth, [Routledge](https://www.routledge.com/Entering-the-Multiverse-Perspectives-on-Alternate-Universes-and-Parallel-Worlds/Booth/p/book/9781032770116) (forthcoming 2025).  
 
-- *Rom-Communism: Ted Lasso and the Future of the Romantic Comedy* on *Popmatters* (2024).  
+- [*Rom-Communism: Ted Lasso and the Future of the Romantic Comedy*](https://www.popmatters.com/rom-communism-ted-lasso-feature) on *Popmatters* (2024).  
 
 - [*Who Does Self-Service Serve?*](https://www.degruyter.com/document/doi/10.18574/nyu/9781479821822.003.0022/html) in *Good Eats: 32 Writers on Eating Ethically*, Edited by Jennifer Cognard-Black and Melissa A. Goldthwaite, [New York University Press](https://nyupress.org/9781479821778/good-eats/) (2024).  
 
