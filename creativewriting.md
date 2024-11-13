@@ -18,7 +18,9 @@ permalink: /creativewriting/
 
 #### Blogging
 
-- Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/) (2024).
+- Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/) (2024).  
+
+- Periodic blogs for [*Writer's Block*](https://writersblockmagazine.com/category/julia-neugarten/) (2018-2019).  
 
 #### Fiction
 
@@ -35,6 +37,4 @@ permalink: /creativewriting/
 - *[Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen](https://www.weekvandeklassieken.nl/blog/2023_123)* as part of the blog *Wegen naar Rome* (English: *Roads to Rome*) which is updated annually during the *Week van de Klassieken* (English: *Week of the Classics*) (2023).  
 
 - 2022: co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
-with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
-
-- Periodic blogs for [*Writer's Block*](https://writersblockmagazine.com/category/julia-neugarten/) (2018-2019).
+with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.   
