@@ -10,7 +10,7 @@ permalink: /creativewriting/
 
 #### Creative Non-Fiction and Essays
 
-- *The Multiverse of Fanfiction* in *Entering the Multiverse: Perspectives on Alternate Universes and Parallel Worlds*, edited by Paul Booth, [Routledge](https://www.routledge.com/Entering-the-Multiverse-Perspectives-on-Alternate-Universes-and-Parallel-Worlds/Booth/p/book/9781032770116) (forthcoming 2025).  
+- *The Multiverse of Fanfiction* in *Entering the Multiverse: Perspectives on Alternate Universes and Parallel Worlds*, edited by Paul Booth, [Routledge](https://www.routledge.com/Entering-the-Multiverse-Perspectives-on-Alternate-Universes-and-Parallel-Worlds/Booth/p/book/9781032770116) (forthcoming 2024).  
 
 - [*Rom-Communism: Ted Lasso and the Future of the Romantic Comedy*](https://www.popmatters.com/rom-communism-ted-lasso-feature) on *Popmatters* (2024).  
 
