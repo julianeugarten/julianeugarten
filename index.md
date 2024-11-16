@@ -19,7 +19,7 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 ## Recent Research Output
 
-- - [*MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth*](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf) (2024)    
+- [*MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth*](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf) (2024)    
 [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/), Vol. 6: Crossing Borders: Digital Humanities Research Across Languages and Modalities   
 
 - *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (2023) 
