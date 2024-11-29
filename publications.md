@@ -93,6 +93,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ### Valorization 
 
 - December 2024: Creative Culture Talk at LUX Nijmegen: [Fanfiction: Shared Universes](https://www.lux-nijmegen.nl/programma/creative-culture-talk-fanfiction-shared-universes/)  
+- November 2024: Lesson Plan [Fandom, Facts and Fiction](https://www.ru.nl/opleidingen/voor-schooldecanen-leraren-en-docenten/middelbare-scholen/lesmaterialen/vakoverstijgend-lesmateriaal/feit-en-fictie) available on Radboud University website  
 - August 2024: Interview about my research with Timo Epping of the Oudheid (Antiquity) Podcast, [available on Spotify](https://open.spotify.com/episode/2DfF797F8MOt7ZSpGGeDw2?si=iay1PgYNRUKoQ0GmAZS8Sw)  
 - July 2024: [Interview about my research with Aôthen Magazine](https://aothenmagazine.com/#neugartenmyth)  
 - June 2024: [Interview to promote the Transnational Access Fellowship](https://www.youtube.com/watch?v=ewWzlg61Fxw)  
