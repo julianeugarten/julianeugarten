@@ -21,7 +21,7 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 ### Peer-reviewed conference presentations
 
 - *How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition* (2024)  
-[Presentation](https://zenodo.org/records/14264802) at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/) (forthcoming)    
+[Presentation](https://zenodo.org/records/14264802) at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)    
 - [*Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth*](https://ceur-ws.org/Vol-3834/paper23.pdf) (2024)  
 Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz  
 Poster at [Computational Humanities Research (CHR2024)](https://2024.computational-humanities-research.org/)  
