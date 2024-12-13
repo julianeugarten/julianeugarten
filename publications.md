@@ -85,7 +85,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ### Research Projects 
 
 - 2022-2026: PhD-candidate in [Gods, Heroes, Myths: Anchoring and Innovating Classical Motifs in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction), part of [Anchoring Innovation](https://anchoringinnovation.nl/)    
-- 2024: [CLS Infra Fellow](https://clsinfra.io/tna-fellow-julia-neugarten/) at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the project *Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth*   
+- 2024: [CLS Infra Fellow](https://clsinfra.io/tna-fellow-julia-neugarten/) at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the project *Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth* [An activity report for the fellowship is available here](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf).  
 - 2020-2022: Intern and later affiliated researcher in [Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)    
 - 2020-2022: Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) in [CLARIAH](https://www.clariah.nl/)    
 - 2021: Research Assistant in [TRACE: Tracking Radio Archival Collections in Europe](https://trace.humanities.uva.nl/)  
