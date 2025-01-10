@@ -92,6 +92,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- January 2025: Masterclass about fanfiction for secondary education: [Fanfictie: wie, wat, waar, waarom?](https://www.ru.nl/over-ons/agenda/fanfictie-wie-wat-waar-waarom)  
 - December 2024: Creative Culture Talk at LUX Nijmegen: [Fanfiction: Shared Universes](https://www.lux-nijmegen.nl/programma/creative-culture-talk-fanfiction-shared-universes/)  
 - November 2024: Lesson Plan [Fandom, Facts and Fiction](https://www.ru.nl/opleidingen/voor-schooldecanen-leraren-en-docenten/middelbare-scholen/lesmaterialen/vakoverstijgend-lesmateriaal/feit-en-fictie), for secondary education, available on the Radboud University website  
 - August 2024: Interview about my research with Timo Epping of the Oudheid (Antiquity) Podcast, [available on Spotify](https://open.spotify.com/episode/2DfF797F8MOt7ZSpGGeDw2?si=iay1PgYNRUKoQ0GmAZS8Sw)  
