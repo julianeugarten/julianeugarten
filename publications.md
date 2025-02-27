@@ -125,6 +125,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
+- Christine Mohrmann Stipend (2025)  
 - OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc)  
 - [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
 - Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*    
