@@ -20,6 +20,12 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- *What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo* (2025)  
+Julia Neugarten and Marieke van Erp  
+Oral presentation at the conference DH Benelux 2025, Amsterdam  
+- *The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities*  
+Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur  
+Panel discussion at the conference DH Benelux 2025, Amsterdam  
 - *How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition* (2024)  
 [Presentation](https://zenodo.org/records/14264802) at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)    
 - [*Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth*](https://ceur-ws.org/Vol-3834/paper23.pdf) (2024)  
@@ -56,6 +62,8 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 #### Other solo presentations  
 
+- *The Impact of Fanfiction* (2025)  
+Presentation at the Lorentz Workshop [Impressed by Reading: Measuring the Impact](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=2070).  
 - *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
 Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/). [Full presentation viewable on Youtube](https://www.youtube.com/watch?v=_jRxbVUAT_Y) and [powerpoint available on Zenodo](https://zenodo.org/records/12163945)    
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
@@ -113,7 +121,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 ### Teaching in the BA Arts & Culture Studies at Radboud University  
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
-- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024)  
+- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024 and again in spring 2025)  
 - Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024, this time including two lectures)   
 
 ### Teaching in Other Programs and Organizations
@@ -125,7 +133,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
-- Christine Mohrmann Stipend (2025)  
+- [Christine Mohrmann Stipend](https://www.ru.nl/en/research/prizes-and-grants/christine-mohrmann-stipend) (2025)  
 - OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc)  
 - [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
 - Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*    
