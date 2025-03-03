@@ -67,7 +67,7 @@ Presentation at the Lorentz Workshop [Impressed by Reading: Measuring the Impact
 - *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
 Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/). [Full presentation viewable on Youtube](https://www.youtube.com/watch?v=_jRxbVUAT_Y) and [powerpoint available on Zenodo](https://zenodo.org/records/12163945)    
 - *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
-[Presentation at the 2023 OSL Day Health Humanities in Practice](https://www.oslit.nl/osl-day-health-humanities-in-practice/)  
+[Presentation at the 2023 OSL Day Health Humanities in Practice](https://zenodo.org/records/14959574)  
 - *Topic Modeling for Exploratory Fanfiction Analysis*  
 [Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/)   
 [Powerpoint available on Zenodo](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA)   
