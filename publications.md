@@ -20,6 +20,9 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- *HGiddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models (2025)  
+Julia Neugarten and Thijs Meijerink  
+Long paper, DH2025, Lisbon
 - *What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo* (2025)  
 Julia Neugarten and Marieke van Erp  
 Oral presentation at the conference DH Benelux 2025, Amsterdam  
