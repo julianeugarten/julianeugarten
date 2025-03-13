@@ -18,6 +18,9 @@ Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intelle
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/)  
 
+### Peer-reviewed contributions to edited collections  
+- *Computational Analysis: Fanfiction as Literary Reception* in *Research Methodologies in Literary Reception Studies*, forthcoming with John Benjamins.  
+
 ### Peer-reviewed conference presentations
 
 - *Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models* (2025)  
@@ -103,6 +106,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- Spring 2025 - Autumn 2026: [Faces of Science](https://www.knaw.nl/nieuws/van-oeroude-migraties-tot-stormvoorspellingen-ontmoet-de-nieuwe-faces-science)  
 - January 2025: Masterclass about fanfiction for secondary education: [Fanfictie: wie, wat, waar, waarom?](https://www.ru.nl/over-ons/agenda/fanfictie-wie-wat-waar-waarom)  
 - December 2024: Creative Culture Talk at LUX Nijmegen: [Fanfiction: Shared Universes](https://www.lux-nijmegen.nl/programma/creative-culture-talk-fanfiction-shared-universes/)  
 - November 2024: Lesson Plan [Fandom, Facts and Fiction](https://www.ru.nl/opleidingen/voor-schooldecanen-leraren-en-docenten/middelbare-scholen/lesmaterialen/vakoverstijgend-lesmateriaal/feit-en-fictie), for secondary education, available on the Radboud University website  
@@ -136,8 +140,9 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
+- OSL Valorization Award 2025 (runner-up)  
 - [Christine Mohrmann Stipend](https://www.ru.nl/en/research/prizes-and-grants/christine-mohrmann-stipend) (2025)  
-- OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc)  
+- OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
 - [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
 - Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*    
 
@@ -151,7 +156,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-present)  
 - conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal   
 - Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)   
--  Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-present) 
+- Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-present) 
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
 
