@@ -140,7 +140,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
-- OSL Valorization Award 2025 (runner-up)  
+- [OSL Valorization Award 2025 (runner-up)](https://www.oslit.nl/osl-awards-the-results-are-in/)  
 - [Christine Mohrmann Stipend](https://www.ru.nl/en/research/prizes-and-grants/christine-mohrmann-stipend) (2025)  
 - OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
 - [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
