@@ -107,6 +107,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 ### Valorization 
 
 - Spring 2025 - Autumn 2026: [Faces of Science](https://www.knaw.nl/nieuws/van-oeroude-migraties-tot-stormvoorspellingen-ontmoet-de-nieuwe-faces-science)  
+- April 2025: Blogpost [Fanfiction: Shared Universes](https://culture-weekly.com/2025/04/15/fanfiction-shared-universes/) on *Culture Weekly* together with Rūta Tidriķe  
 - January 2025: Masterclass about fanfiction for secondary education: [Fanfictie: wie, wat, waar, waarom?](https://www.ru.nl/over-ons/agenda/fanfictie-wie-wat-waar-waarom)  
 - December 2024: Creative Culture Talk at LUX Nijmegen: [Fanfiction: Shared Universes](https://www.lux-nijmegen.nl/programma/creative-culture-talk-fanfiction-shared-universes/)  
 - November 2024: Lesson Plan [Fandom, Facts and Fiction](https://www.ru.nl/opleidingen/voor-schooldecanen-leraren-en-docenten/middelbare-scholen/lesmaterialen/vakoverstijgend-lesmateriaal/feit-en-fictie), for secondary education, available on the Radboud University website  
@@ -154,7 +155,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - member of OSL, the Dutch Research School for Literary Studies (November 2022-present)  
 - associated member of OIKOS, the National Research School in Classical Studies in the Netherlands (November 2022-present)  
 - member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-present)  
-- conducted peer review for the *Journal of Fandom Studies* and the *Digital Humanities Benelux* conference and journal   
+- conducted peer review for the *Journal of Fandom Studies*, the *Digital Humanities Benelux* conference and journal, and the journal *New Media & Society*  
 - Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)   
 - Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-present) 
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
