@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
+- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction* (forthcoming)  
+Solo-authored article in the [Journal of Computational Literary Studies](https://jcls.io/) 2025 issue.  
 - *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction* (forthcoming)  
 Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc), expected publication in the autumn of 2025.  
 - [*MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth*](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf) (2024)    
@@ -23,6 +25,8 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
+Presentation at the 4th annua [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
 - *Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models* (2025)  
 Julia Neugarten and Thijs Meijerink  
 Long paper, DH2025, Lisbon
