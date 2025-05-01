@@ -26,7 +26,7 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 ### Peer-reviewed conference presentations
 
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
-Presentation at the 4th annua [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
+Presentation at the 4th annual [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
 - *Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models* (2025)  
 Julia Neugarten and Thijs Meijerink  
 Long paper, DH2025, Lisbon
@@ -153,6 +153,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Academic Service and Professional Memberships  
 
+- member of the [European Association for Digital Humanities (EADH)](https://eadh.org/) (2025)      
 - co-organizer of the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) (October 2024)      
 - editor of  [Culture Weekly](https://culture-weekly.com/), the blog of the department of Arts and Culture Studies at Radboud University. (September 2023 - present)  
 - member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (summer 2023-present)  
