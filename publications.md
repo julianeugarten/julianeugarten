@@ -33,7 +33,7 @@ Long paper, DH2025, Lisbon
 - *What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo* (2025)  
 Julia Neugarten and Marieke van Erp  
 Oral presentation at the conference DH Benelux 2025, Amsterdam  
-- *The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities*  
+- *[The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities](https://zenodo.org/records/15373875)*  
 Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur  
 Panel discussion at the conference DH Benelux 2025, Amsterdam  
 - *How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition* (2024)  
