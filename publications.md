@@ -30,7 +30,7 @@ Presentation at the 4th annual [Conference of Computational Literary Studies](ht
 - *Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models* (2025)  
 Julia Neugarten and Thijs Meijerink  
 Long paper, DH2025, Lisbon
-- *What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo* (2025)  
+- *[What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo](https://zenodo.org/records/15424192)* (2025)  
 Julia Neugarten and Marieke van Erp  
 Oral presentation at the conference DH Benelux 2025, Amsterdam  
 - *[The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities](https://zenodo.org/records/15373875)*  
