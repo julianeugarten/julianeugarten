@@ -54,7 +54,7 @@ Julia Neugarten & Roel Smeets
 - *What Do We Talk About When We Talk About Topic?* (2022)  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  
 [Short paper](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/), published in the [Proceedings of the Computational Humanities Research Conference 2022](https://ceur-ws.org/Vol-3290/).
-- *What can Online Book Reviews Reveal about Readers and Platforms?* (2022)  
+- *What Can Online Book Reviews Reveal about Readers and Platforms?* (2022)  
 Koolen, M., Fialho, O., Neugarten, J., van Zundert, J., van Hage, W., Mussmann, O., Boot, P.   
 Presentation at the conference [Computational Linguistics in the Netherlands](https://clin2022.uvt.nl/clin32/)
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
@@ -110,7 +110,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
-- Spring 2025 - Autumn 2026: [Faces of Science](https://www.knaw.nl/nieuws/van-oeroude-migraties-tot-stormvoorspellingen-ontmoet-de-nieuwe-faces-science)  
+- Spring 2025 - Autumn 2026: [Faces of Science](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/)  
 - April 2025: Blogpost [Fanfiction: Shared Universes](https://culture-weekly.com/2025/04/15/fanfiction-shared-universes/) on *Culture Weekly* together with Rūta Tidriķe  
 - January 2025: Masterclass about fanfiction for secondary education: [Fanfictie: wie, wat, waar, waarom?](https://www.ru.nl/over-ons/agenda/fanfictie-wie-wat-waar-waarom)  
 - December 2024: Creative Culture Talk at LUX Nijmegen: [Fanfiction: Shared Universes](https://www.lux-nijmegen.nl/programma/creative-culture-talk-fanfiction-shared-universes/)  
