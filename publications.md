@@ -86,12 +86,14 @@ Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam  
 
-#### Solo-authored articles in graduate journals
+#### Other Publications
 
+- * *"Impressed by Reading" Workshop Report* (2025)  
+Workshop report co-authored with 24 workshop participants, available [on Zenodo](https://zenodo.org/records/15527654)  
 - *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
-Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/)  
+Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/), solo-authored article in graduate journal     
 - *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)  
-Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81)  
+Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81), solo-authored article in graduate journal       
 
 #### Reviews
 
