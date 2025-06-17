@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
-- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/)  
+- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*,   [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
 Solo-authored article in the [Journal of Computational Literary Studies](https://jcls.io/) 2025 issue.  
 - *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction* (forthcoming)  
 Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc), expected publication in the autumn of 2025.  
