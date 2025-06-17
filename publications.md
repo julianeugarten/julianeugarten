@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
-- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction* (forthcoming)  
+- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/)  
 Solo-authored article in the [Journal of Computational Literary Studies](https://jcls.io/) 2025 issue.  
 - *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction* (forthcoming)  
 Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc), expected publication in the autumn of 2025.  
@@ -88,7 +88,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 
 #### Other Publications
 
-- * *"Impressed by Reading" Workshop Report* (2025)  
+-*"Impressed by Reading" Workshop Report* (2025)  
 Workshop report co-authored with 24 workshop participants, available [on Zenodo](https://zenodo.org/records/15527654)  
 - *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
 Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/), solo-authored article in graduate journal     
