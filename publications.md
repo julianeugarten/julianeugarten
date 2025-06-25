@@ -27,6 +27,7 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
 Presentation at the 4th annual [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
+[Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
 - *Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models* (2025)  
 Julia Neugarten and Thijs Meijerink  
 Long paper, DH2025, Lisbon
@@ -72,6 +73,8 @@ Short presentation, part of a panel at the conference [Digital Humanities 2022](
 
 #### Other solo presentations  
 
+- *Fanfiction about Greek Myth: A Computational Exploration* (2025)
+Presentation at the CORE Collective, Aarhus University, Denmark  
 - *The Impact of Fanfiction* (2025)  
 Presentation at the Lorentz Workshop [Impressed by Reading: Measuring the Impact](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=2070).  
 - *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
@@ -88,7 +91,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 
 #### Other Publications
 
--*"Impressed by Reading" Workshop Report* (2025)  
+- *"Impressed by Reading" Workshop Report* (2025)  
 Workshop report co-authored with 24 workshop participants, available [on Zenodo](https://zenodo.org/records/15527654)  
 - *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
 Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/), solo-authored article in graduate journal     
@@ -147,6 +150,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 
 ### Awards and Fellowships  
 
+- OIKOS Travel Award (2025)
 - [OSL Valorization Award 2025 (runner-up)](https://www.oslit.nl/osl-awards-the-results-are-in/)  
 - [Christine Mohrmann Stipend](https://www.linkedin.com/posts/facultyofarts_christinemohrmannstipend-phd-fanfiction-activity-7313893923427352578-AoNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6OhdwBq1JaftSjT30vRQEmvEfq5oNitSg) (2025)  
 - OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
@@ -161,10 +165,10 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (summer 2023-present)  
 - member of OSL, the Dutch Research School for Literary Studies (November 2022-present)  
 - associated member of OIKOS, the National Research School in Classical Studies in the Netherlands (November 2022-present)  
-- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-present)  
+- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-2024)  
 - conducted peer review for the *Journal of Fandom Studies*, the *Digital Humanities Benelux* conference and journal, and the journal *New Media & Society*  
 - Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)   
-- Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-present) 
+- Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-2024) 
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
 
