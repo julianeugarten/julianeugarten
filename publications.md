@@ -20,15 +20,12 @@ Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intelle
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/)  
 
-### Peer-reviewed contributions to edited collections  
-- *Computational Analysis: Fanfiction as Literary Reception* in *Research Methodologies in Literary Reception Studies*, forthcoming with John Benjamins.  
-
 ### Peer-reviewed conference presentations
 
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
 Presentation at the 4th annual [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
 [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
-- *Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models* (2025)  
+- *[Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models](https://zenodo.org/records/16037061)* (2025)  
 Julia Neugarten and Thijs Meijerink  
 Long paper, DH2025, Lisbon
 - *[What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo](https://zenodo.org/records/15424192)* (2025)  
