@@ -112,6 +112,7 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- August 2025: Blogpost [Reading with Computers: The Conference of Computational Literary Studies 2025](https://dls.hypotheses.org/2046) on the blog for the ADHO Special Interest Group (SIG) in Digital Literary Studies  
 - Spring 2025 - Autumn 2026: [Faces of Science](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/)  
 - April 2025: Blogpost [Fanfiction: Shared Universes](https://culture-weekly.com/2025/04/15/fanfiction-shared-universes/) on *Culture Weekly* together with Rūta Tidriķe  
 - January 2025: Masterclass about fanfiction for secondary education: [Fanfictie: wie, wat, waar, waarom?](https://www.ru.nl/over-ons/agenda/fanfictie-wie-wat-waar-waarom)  
