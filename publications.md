@@ -8,10 +8,10 @@ permalink: /publications/
 
 ### Peer-reviewed journal articles
 
+- *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction*  
+Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc/article/view/2643), vol. 46 (2025).    
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*,   [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
 Solo-authored article in the [Journal of Computational Literary Studies](https://jcls.io/) 2025 issue.  
-- *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction* (forthcoming)  
-Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc), expected publication in the autumn of 2025.  
 - [*MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth*](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf) (2024)    
 Solo-authored article in the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/), Vol. 6: Crossing Borders: Digital Humanities Research Across Languages and Modalities   
 - *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (2023) 
@@ -22,6 +22,8 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- *Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms*  
+Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni, Long paper at CHR2025.  
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
 Presentation at the 4th annual [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
 [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
@@ -97,6 +99,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 #### Reviews
 
+- Review of *Identity, Community, and Sexuality in Slash Fan Fiction: Pocket Publics* by Anne Kustritz (2025)  
+[Journal of Fandom Studies 13.1](https://doi.org/10.1386/jfs_00112_5)  
 - Review of *Classical Controversies. Reception of Graeco-Roman Antiquity in the Twenty-First Century* (2022) Edited by Kim Beerden and Timo Epping  
 [Tijdschrift voor Geschiedenis 136.2](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG)  
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
